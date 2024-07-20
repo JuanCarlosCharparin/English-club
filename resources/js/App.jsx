@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Example from './components/Example';
+import Home from './components/Home/Home';
 
 const App = () => {
   return (
     <div>
-      Apppppp
-      <button className='btn btn-success'>Aceptar</button>
+      <Home/>
     </div>
   )
 }
