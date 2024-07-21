@@ -1,0 +1,38 @@
+
+/*.navbar {
+    background-color: #343a40;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .navbar-logo {
+    height: 40px;
+    margin-right: 0.5rem;
+  }
+  
+  .navbar-menu {
+    display: flex;
+  }
+  
+  .nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-link:hover {
+    background-color: #495057;
+  }
+    */
